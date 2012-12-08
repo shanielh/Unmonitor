@@ -12,7 +12,7 @@ TestResults
 *.suo
 *.user
 *.sln.docstates
-.sln.userperfs
+*.sln.userprefs
 
 # Build results
 [Dd]ebug/
